@@ -61,6 +61,8 @@ coffee-sales-analysis/
 
 ├── dashboard/               # Interactive Excel dashboard for sales analysis
 │   └── coffee_sales_dashboard.xlsx
+...
+
 ---
 
 <h2><a class="anchor" id="data-cleaning--preprations"></a>Data Cleaning and POreprations</h2>

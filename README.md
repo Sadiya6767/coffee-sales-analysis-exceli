@@ -65,7 +65,7 @@ coffee-sales-analysis/
 
 ---
 
-<h2><a class="anchor" id="data-cleaning--preprations"></a>Data Cleaning and Preprations</h2>
+<h2><a class="anchor" id="data-cleaning--prepration"></a>Data Cleaning and Preprations</h2>
 
 - Removed extra and repeated rows from the data.
 - Filled or removed missing values in sales and quantity columns.

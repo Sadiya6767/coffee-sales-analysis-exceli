@@ -52,17 +52,15 @@ Data file located in  `data` folder.
 ---
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-...
+```
 coffee-sales-analysis/
-├── README.md  
-├── .gitignore  
-├── requirements.txt  
-├── Coffee Sales Report.pdf  
-
-├── dashboard/              
-│   └── coffee_sales_dashboard.xlsx
-...
-
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── Coffee Sales Report.pdf
+├── dashboard/
+│ └── coffee_sales_dashboard.xlsx
+```
 ---
 
 <h2><a class="anchor" id="data-cleaning--preprations"></a>Data Cleaning and POreprations</h2>
@@ -146,11 +144,11 @@ Key Findings:
 
 ---
 
-<h2><a class="anchor" id="author--contact"></a>Author and Contact</h2>
+<h2><a class="anchor" id="author--contact"></a>Author and Contacts</h2>
 
-Sadiya
-Email: sadiyahaldwani413@gmail.com
-GitHub: https://github.com/Sadiya6767
+Sadiya<br>
+Email: sadiyahaldwani413@gmail.com<br>
+GitHub: https://github.com/Sadiya6767<br>
 Linkedin: www.linkedin.com/in/sadiya-ansari-0002b8291
 
 ---

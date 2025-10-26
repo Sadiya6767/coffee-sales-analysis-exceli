@@ -36,10 +36,10 @@ Effective sales tracking and performance analysis are critical in coffee shop sa
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-Data file located in  `data` folder.
--Dataset Details
--*Number of Records: 149117
--*Number of Features/Columns: 11
+Data file located in  `data` folder.<br>
+-Dataset Details<br>
+-*Number of Records: 149117<br>
+-*Number of Features/Columns: 11<br>
 -*Data Format: CSV
 
 ---
@@ -100,11 +100,11 @@ Key Findings:
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
-- Excel dashboard shows:
-| - Total Sales and Profit overview  
-| - Category-wise performance chart 
-| - Average sales per month 
-| - Dynamic filters and slicers for easy analysis
+- Excel dashboard shows:<br>
+| - Total Sales and Profit overview  <br>
+| - Category-wise performance chart <br>
+| - Average sales per month <br>
+| - Dynamic filters and slicers for easy analysis<br>
 | - Customer purchase insights 
 
 ![Coffee Sales Dashboard](images/dashboard.png)

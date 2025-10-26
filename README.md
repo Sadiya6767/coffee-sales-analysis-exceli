@@ -54,12 +54,12 @@ Data file located in  `data` folder.
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 ...
 coffee-sales-analysis/
-├── README.md  # Project documentation
-├── .gitignore  # Files and folders to ignore in Git
-├── requirements.txt  # List of dependencies or required tools
-├── Coffee Sales Report.pdf  # Final report of the coffee sales analysis
+├── README.md  
+├── .gitignore  
+├── requirements.txt  
+├── Coffee Sales Report.pdf  
 
-├── dashboard/               # Interactive Excel dashboard for sales analysis
+├── dashboard/              
 │   └── coffee_sales_dashboard.xlsx
 ...
 
@@ -95,6 +95,7 @@ Key Findings:
 - Coffee and Tea categories generate the highest revenue.
 - Sunday and Monday record better sales compared to other weekdays.
 - Some products and time slots show low performance and need attention.
+
 ---
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
@@ -151,4 +152,5 @@ Sadiya
 Email: sadiyahaldwani413@gmail.com
 GitHub: https://github.com/Sadiya6767
 Linkedin: www.linkedin.com/in/sadiya-ansari-0002b8291
+
 ---

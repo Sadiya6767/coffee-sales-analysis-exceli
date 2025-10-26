@@ -52,18 +52,20 @@ Data file located in  `data` folder.
 ---
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
-```
+
+```text
 coffee-sales-analysis/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
 ├── Coffee Sales Report.pdf
-├── dashboard/
-│ └── coffee_sales_dashboard.xlsx
+└── dashboard/
+    └── coffee_sales_dashboard.xlsx
 ```
+
 ---
 
-<h2><a class="anchor" id="data-cleaning--preprations"></a>Data Cleaning and POreprations</h2>
+<h2><a class="anchor" id="data-cleaning--preprations"></a>Data Cleaning and Preprations</h2>
 
 - Removed extra and repeated rows from the data.
 - Filled or removed missing values in sales and quantity columns.
